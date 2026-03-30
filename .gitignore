@@ -1,7 +1,27 @@
-# build trash
+# Visual Studio Junk (The stuff we DON'T want)
 .vs/
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
 bin/
 obj/
+
+# Temporary Build Files
 *.exe
 *.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ilk
+*.recipe
+*.iobj
+*.ipdb
 *.user
+*.aps
+*.ncb
+*.opendb
+
+# DO NOT PUT .cpp, .h, or .vcxproj HERE! 
+# We WANT those on GitHub.
