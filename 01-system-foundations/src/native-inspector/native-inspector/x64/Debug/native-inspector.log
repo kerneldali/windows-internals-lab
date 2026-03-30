@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\dali\Desktop\windows-internals-lab\01-foundations\src\native-inspector\native-inspector\main.cpp(34,52): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'int'
+C:\Users\dali\Desktop\windows-internals-lab\01-foundations\src\native-inspector\native-inspector\main.cpp(34,52): warning C4302: 'type cast': truncation from 'HANDLE' to 'int'
+  native-inspector.vcxproj -> C:\Users\dali\Desktop\windows-internals-lab\01-foundations\src\native-inspector\x64\Debug\native-inspector.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

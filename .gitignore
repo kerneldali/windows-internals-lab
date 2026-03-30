@@ -1,0 +1,7 @@
+# build trash
+.vs/
+bin/
+obj/
+*.exe
+*.pdb
+*.user

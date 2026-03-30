@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="native-inspector/native-inspector.vcxproj" Id="1ba7d327-102e-49f8-a1a9-07503fd01194" />
+</Solution>
