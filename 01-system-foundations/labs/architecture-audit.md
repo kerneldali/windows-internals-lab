@@ -33,7 +33,7 @@ PROCESS ffff808e48d98080
     Image: lsass.exe
 for phase 3 i traced syscall path
 i traced how windows is the transition from user mode to kernel mode during a file creation request.
-command: u ntdll!NtCreateFile or we can equally do u ffff808e48d98080 which is the kernel virtual addy of lsass
+command: u ntdll!NtCreateFile (corrected we cant unassemble ffff808e48d98080 because its the address of the eprocess object if we do u ffff808e48d98080 the dbg will try to decode the data as opcodes and we will see just garbage)
 output:
 code
 Text
