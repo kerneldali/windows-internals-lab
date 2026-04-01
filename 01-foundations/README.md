@@ -3,8 +3,8 @@
 Landing page for foundational Windows internals work.
 
 ## Contents
-- [Architecture Analysis](../01-system-foundations/notes/architecture-analysis.md)
-- [Architecture Audit Lab](../01-system-foundations/labs/architecture-audit.md)
+- [Architecture Analysis](notes/architecture-analysis.md)
+- [Architecture Audit Lab](labs/architecture-audit.md)
 - [native-inspector](src/native-inspector/)
 
 ## What This Module Covers
