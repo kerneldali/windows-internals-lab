@@ -6,9 +6,9 @@
 
 # \- \[x] get a process list using ntsysinfo (skipping the kernel32)
 
-# \- \[ ] remote kernel debugging setup (kdnet / vmware)
+# \- \[x] remote kernel debugging setup (kdnet / vmware)
 
-# \- \[ ] find syscall numbers (SSNs) for core ntdll functions
+# \- \[x] find syscall numbers (SSNs) for core ntdll functions
 
 # 
 
